@@ -258,7 +258,7 @@ def theEnd() :
     
 #****************************************the instructions to make a calendar
 
-YEAR = 2100 # year to make the calendar between 1900 and 9999 inclusive
+YEAR = 2013 # year to make the calendar between 1900 and 9999 inclusive
 
 for month in range(1, 13) :
     
