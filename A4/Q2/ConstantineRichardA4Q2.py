@@ -350,7 +350,7 @@ def areaOfShape(shape) :
     
     areaArray = np.array(areaList)
     
-    outlineArea = np.max(areaArray, 0.)
+    outlineArea = np.max(areaArray, 0)
     constituentArea = np.sum(areaArray) - outlineArea
     
     area = float(outlineArea - constituentArea)

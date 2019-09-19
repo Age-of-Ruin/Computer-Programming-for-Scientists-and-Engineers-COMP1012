@@ -1,0 +1,2 @@
+# Trunnion Bracket Drawer
+To construct an interactive program that plots a trunnion bracket and calculates the area and mass from a user input of the width, thickness degree of rotation(for plot) and the assumed density of 7.850g/cm^3 of hardened steel.

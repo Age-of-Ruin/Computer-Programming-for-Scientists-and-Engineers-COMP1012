@@ -15,9 +15,11 @@ import random
 def getWordList() :
     """Formats and records words from internet dictionary"""
     
-    url = "http://cs.umanitoba.ca/~comp1012/2of12inf.txt"
-    flink = urllib.urlopen(url)
+    # url = "http://cs.umanitoba.ca/~comp1012/2of12inf.txt"
+    # flink = urllib.urlopen(url)
     
+    flink = open("/path/to/words.txt", "r");
+
     words = []
     count = 0
     

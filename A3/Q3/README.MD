@@ -1,0 +1,2 @@
+# Area Under Curve (Tra)
+Divides the interval between 0 and 1 into a large number of equal-size intervals and approximates the area of the unit circle (in other words,	π)	by 4 times the sum of trapezoidal areas. The program should asks the user how	many intervals to use, and how many	decimal	places are needed. Then starting with the requested	number of intervals, keeps doubling	the	number of intervals until the numerical estimate of π matches the built-in	value math.pi to the requested number	of decimal places.	

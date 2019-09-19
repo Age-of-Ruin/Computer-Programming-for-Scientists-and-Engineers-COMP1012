@@ -1,16 +1,10 @@
-# -*- coding: utf-8 -*-
-# ConstantineRichardA4Q2
-#
 # COMP 1012 SECTION A01
 # INSTRUCTOR Terry Andres
 # ASSIGNMENT: A4 Question 3
 # AUTHOR Richard Constantine
 # VERSION [Date of last change: 2013-Nov-1]
 #
-# PURPOSE: To construct an interactive program that plots a trunnion bracket
-# and calculates the area and mass from a user input of the width, thickness, 
-# degree of rotation(for plot) and the assumed density of 7.850g/cm^3 of
-# hardened steel.
+# PURPOSE: Estimates pi using trapezoidal method.
 
 
 import math
