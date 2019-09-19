@@ -1,0 +1,2 @@
+# Square Root of 2 using Continued Fractions
+To use repeating fractions to approximate the value of the square root of two by iterating the fraction multiple times. Ratio values are multiplied by 10^40 so as to minimize error by increasing the number of accurate decimal places.
